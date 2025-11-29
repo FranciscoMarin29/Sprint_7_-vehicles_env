@@ -46,6 +46,7 @@ Para correr la aplicación se deben instalar los paquetes del archivo requiremen
 ```bash
 
 streamlit run app.py
+```
 
 ### ✔️ Resultado final
 
