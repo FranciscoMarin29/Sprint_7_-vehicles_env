@@ -47,7 +47,10 @@ Para correr la aplicación se deben instalar los paquetes del archivo requiremen
 
 streamlit run app.py
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 721eccd (Actualizo README: agrego URL de Render y viñetas)
 ### ✔️ Resultado final
 
 El proyecto es completamente funcional, sigue la estructura solicitada y permite explorar de forma visual y dinámica los anuncios de vehículos. Se cumplen todos los requisitos del Sprint 7.
